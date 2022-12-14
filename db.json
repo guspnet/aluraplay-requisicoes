@@ -63,13 +63,27 @@
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 9
     },
-
     {
       "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
       "descricao": "1,3 mil visualizações",
       "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
       "id": 10
+    },
+    {
+      "titulo": "Conhecendo o NestJS",
+      "descricao": "8 mil vizualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "O que é o JavaScript? | #AluraMais",
+      "descricao": "6 mil vizualizações",
+      "url": "https://youtube.com/embed/N1BSG02z-Mw",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
     }
+
   ]
 }
